@@ -1,0 +1,15 @@
+E:\Для учёбы\C#\seminars\secondSeminar\obj\Debug\net6.0\secondSeminar.csproj.AssemblyReference.cache
+E:\Для учёбы\C#\seminars\secondSeminar\obj\Debug\net6.0\secondSeminar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Для учёбы\C#\seminars\secondSeminar\obj\Debug\net6.0\secondSeminar.AssemblyInfoInputs.cache
+E:\Для учёбы\C#\seminars\secondSeminar\obj\Debug\net6.0\secondSeminar.AssemblyInfo.cs
+E:\Для учёбы\C#\seminars\secondSeminar\obj\Debug\net6.0\secondSeminar.csproj.CoreCompileInputs.cache
+E:\Для учёбы\C#\seminars\secondSeminar\bin\Debug\net6.0\secondSeminar.exe
+E:\Для учёбы\C#\seminars\secondSeminar\bin\Debug\net6.0\secondSeminar.deps.json
+E:\Для учёбы\C#\seminars\secondSeminar\bin\Debug\net6.0\secondSeminar.runtimeconfig.json
+E:\Для учёбы\C#\seminars\secondSeminar\bin\Debug\net6.0\secondSeminar.dll
+E:\Для учёбы\C#\seminars\secondSeminar\bin\Debug\net6.0\secondSeminar.pdb
+E:\Для учёбы\C#\seminars\secondSeminar\obj\Debug\net6.0\secondSeminar.dll
+E:\Для учёбы\C#\seminars\secondSeminar\obj\Debug\net6.0\refint\secondSeminar.dll
+E:\Для учёбы\C#\seminars\secondSeminar\obj\Debug\net6.0\secondSeminar.pdb
+E:\Для учёбы\C#\seminars\secondSeminar\obj\Debug\net6.0\secondSeminar.genruntimeconfig.cache
+E:\Для учёбы\C#\seminars\secondSeminar\obj\Debug\net6.0\ref\secondSeminar.dll
