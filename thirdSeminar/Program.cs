@@ -110,7 +110,43 @@ quad(N);
 
 int polindrom(int num)
 {
-    
+    int lenght=0;
+    int ten=10;
+    while (num>0)
+    {
+       num=num/10;
+       lenght++;
+    }
+    lenght=lenght/2;
+    if (lenght%2==0)
+    {
+        while((lenght)>1)
+        {
+            ten=ten*10;
+            lenght--;
+        }    
+    }
+    else
+    {
+        while((lenght-1)>1)
+        {
+            ten=ten*10;
+            lenght--;
+        }
+    }
+    int num1=num/ten;
+    int num2=num%ten;
+    int num3=num2;
+    while (num2>0)
+    {
+       num2=num2/10;
+       lenght2++;
+    }
+    int num4=0;
+    while (lenght2>0)
+    {
+        Math.Pow(a,)
+    }
 }
 
 
