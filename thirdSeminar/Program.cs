@@ -107,48 +107,118 @@ quad(N);
 
 
 // Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом. (Сказали для числа произвольной длинны)
-
-int polindrom(int num)
+/* ---- херня, не работает, без понятия как массив вытащить из функции плюс где-то точно есть ошибка, ниже нормальное решение будет
+int dlina(int num)
 {
     int lenght=0;
-    int ten=10;
+    int full=num;
     while (num>0)
     {
        num=num/10;
        lenght++;
     }
-    lenght=lenght/2;
-    if (lenght%2==0)
+    return lenght;
+}
+int elements(int array)
+{
+   int ten=10;
+   int[] array=new int[lenght];
+   int nulik=0;
+   while(nulik<lenght-1)
+   {
+    array[nulik]=(full/Math.Pow(ten,nulik))%ten;
+    nulik++;
+   }
+   return array;
+}
+void chet(int array)
+{
+    int m=0;
+    while (m<lenght-1)
     {
-        while((lenght)>1)
-        {
-            ten=ten*10;
-            lenght--;
-        }    
+        if(array[m]==array[lenght-1])
+        {m++;
+        lenght=lenght-1;}
+        else
+        m=lenght*10;
     }
+    if(m<lenght)
+    return true;
     else
+    return false;
+}
+void neChet(int array)
+{
+    int m=0;
+    int dlina=lenght;
+    while (m<=(lenght-1)/2)
     {
-        while((lenght-1)>1)
-        {
-            ten=ten*10;
-            lenght--;
-        }
+        if(array[m]=array[dlina-1])
+        {m++;
+        dlina--;}
+        else
+        m=lenght*10;
     }
-    int num1=num/ten;
-    int num2=num%ten;
-    int num3=num2;
-    while (num2>0)
-    {
-       num2=num2/10;
-       lenght2++;
-    }
-    int num4=0;
-    while (lenght2>0)
-    {
-        Math.Pow(a,)
-    }
+    if(m<lenght)
+    return true;
+    else
+    return false;
 }
 
+Console.Write("Введите число N: ");
+int N=Convert.ToInt32(Console.ReadLine());
+int lenght=dlina(N);
+int[] array= new int[lenght]; 
+array=elements(N);
+if (lenght%2==0)
+     chet(array);
+else
+    neChet(array);
+*/
+
+/*    // намучился как незнамо кто, чувствую что дальше мне дороги нет
+int opOpRazvorot(int num)
+{
+    int lenght=0;
+    int full=num;
+    while (full>0)
+    {
+       full=full/10;
+       lenght++;
+    }
+    int count=0;
+    int c=lenght;
+    int a=0;
+    double b=0;
+    while(count<lenght)
+    {
+        a=num%10;
+        num=num/10;
+        b=b+a*Math.Pow(10,c-1); // в цикл надо эту ... завернуть, а то так получаем тип дабл (забиваем нашёл как сделать)
+        c=c-1;
+        count++;
+               Console.WriteLine(b);
+    }
+    int e=Convert.ToInt32(b);
+    return e;
+}
+bool sravnenie(int num, int reversNum)
+{
+    if(num==reversNum)
+    return true;
+    else
+    return false;
+}
+
+Console.Write("Введите число N: ");
+int N=Convert.ToInt32(Console.ReadLine());
+int reversNum=opOpRazvorot(N);
+bool result=sravnenie(N, reversNum);
+if (result)
+Console.Write($"Число {N} является палиндромом");
+else
+Console.Write($"Число {N} не является палиндромом");
+*/
 
 
 
