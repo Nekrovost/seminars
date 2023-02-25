@@ -1,0 +1,15 @@
+E:\Для учёбы\C#\seminars\fifthSeminar\bin\Debug\net6.0\fifthSeminar.exe
+E:\Для учёбы\C#\seminars\fifthSeminar\bin\Debug\net6.0\fifthSeminar.deps.json
+E:\Для учёбы\C#\seminars\fifthSeminar\bin\Debug\net6.0\fifthSeminar.runtimeconfig.json
+E:\Для учёбы\C#\seminars\fifthSeminar\bin\Debug\net6.0\fifthSeminar.dll
+E:\Для учёбы\C#\seminars\fifthSeminar\bin\Debug\net6.0\fifthSeminar.pdb
+E:\Для учёбы\C#\seminars\fifthSeminar\obj\Debug\net6.0\fifthSeminar.csproj.AssemblyReference.cache
+E:\Для учёбы\C#\seminars\fifthSeminar\obj\Debug\net6.0\fifthSeminar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Для учёбы\C#\seminars\fifthSeminar\obj\Debug\net6.0\fifthSeminar.AssemblyInfoInputs.cache
+E:\Для учёбы\C#\seminars\fifthSeminar\obj\Debug\net6.0\fifthSeminar.AssemblyInfo.cs
+E:\Для учёбы\C#\seminars\fifthSeminar\obj\Debug\net6.0\fifthSeminar.csproj.CoreCompileInputs.cache
+E:\Для учёбы\C#\seminars\fifthSeminar\obj\Debug\net6.0\fifthSeminar.dll
+E:\Для учёбы\C#\seminars\fifthSeminar\obj\Debug\net6.0\refint\fifthSeminar.dll
+E:\Для учёбы\C#\seminars\fifthSeminar\obj\Debug\net6.0\fifthSeminar.pdb
+E:\Для учёбы\C#\seminars\fifthSeminar\obj\Debug\net6.0\fifthSeminar.genruntimeconfig.cache
+E:\Для учёбы\C#\seminars\fifthSeminar\obj\Debug\net6.0\ref\fifthSeminar.dll
