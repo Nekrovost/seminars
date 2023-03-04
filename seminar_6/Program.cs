@@ -210,9 +210,9 @@ Console.WriteLine(pol(N));
 
 // Напишите программу, которая найдёт точку пересечения двух прямых, заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; значения b1, k1, b2 и k2 задаются пользователем.
 /*
-void peresechenie(int b1, int k1, int b2, int k2)
+void peresechenie(double b1, double k1, double b2, double k2)
 {
-    int x=0;
+    double x=0;
     if(b1==b2 && k1==k2)
     Console.WriteLine("Прямые имеют пересечение на всей прямой");
     else
@@ -236,12 +236,12 @@ void peresechenie(int b1, int k1, int b2, int k2)
 }
 
 Console.WriteLine("Введите b1: ");
-int b1=Convert.ToInt32(Console.ReadLine());
+double b1=Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите k1: ");
-int k1=Convert.ToInt32(Console.ReadLine());
+double k1=Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите b2: ");
-int b2=Convert.ToInt32(Console.ReadLine());
+double b2=Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите k2: ");
-int k2=Convert.ToInt32(Console.ReadLine());
+double k2=Convert.ToDouble(Console.ReadLine());
 peresechenie(b1, k1, b2, k2);
 */
