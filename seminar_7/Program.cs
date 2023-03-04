@@ -332,14 +332,14 @@ void show2dArray(int[,] array)
 
 void arifmet(int[,] array)
 {
-    for(int i=0; i<array.GetLength(0); i++)
+    for(int j=0; j<array.GetLength(1); j++)
     {
-        int sum=0;
-        for(int j=0; j<array.GetLength(0); j++)
+        double sum=0;
+        for(int i=0; i<array.GetLength(0); i++)
         {
             sum=sum+array[i,j];
         }
-        Console.WriteLine($"{sum} - это сумма {i+1} столбца");
+        Console.WriteLine($"{sum/array.GetLength(0)} - это сумма {j+1} столбца");
     }
 }
 
